@@ -1,4 +1,4 @@
-# LangChain Codes
+
 # LangChain Learning Journey 🦜🔗
 
 This repository contains my code, experiments, and practice work while learning **LangChain** and building applications with LLMs.
